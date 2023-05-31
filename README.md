@@ -7,7 +7,7 @@ version control,software testing, and project management.
 <b>Explore my latest projects here:</b><br>
 
 <li><a href="https://github.com/algisbernatovics/Article-Site">Article Site</a><p>
-  News,Users and Comments in local mysql database.
+  Article Site:Articles,Users and Comments using SQL DB, also working With JSONPlaceHolder API.
   Implementation of MVC pattern, routing, cache system. Usage of Twig as template engine.</p></li>
 
 <li><a href="https://github.com/algisbernatovics/rick-and-morty-api/tree/main/the-rick-and-morty-main">
