@@ -15,7 +15,7 @@ version control,software testing, and project management.
   Implementation of MVC pattern, routing, cache system. Usage of Twig as template engine and Tailwind for styling.
   See :<a href="https://ricknmortycards.000webhostapp.com/">
   Rick and Morty Hosted</a>
-  </p>
+  </p></li>
   
   
   
