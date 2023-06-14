@@ -15,7 +15,10 @@ version control,software testing, and project management.
 
 <li><a href="https://github.com/algisbernatovics/Article-Site">Article Site</a><p>
   Article Site:Articles,Users and Comments using SQL DB, also working With JSONPlaceHolder API.
-  Implementation of MVC pattern, routing, cache system. Usage of Twig as template engine.</p></li>
+  Implementation of MVC pattern, routing, cache system. Usage of Twig as template engine.
+  See :<a href="https://articlessite.000webhostapp.com/">
+  Article Site Hosted</a>
+  </p></li>
 
 <li><a href="https://github.com/algisbernatovics/gif-app-v2/tree/main/GiphyAppV2">Giphy Search</a><p>
   Simple page to fetch GIFS of your choice from Giphy API library.
