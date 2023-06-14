@@ -6,20 +6,17 @@ version control,software testing, and project management.
 <hr>
 <b>Explore my latest projects here:</b><br>
 
-<li><a href="https://github.com/algisbernatovics/Article-Site">Article Site</a><p>
-  Article Site:Articles,Users and Comments using SQL DB, also working With JSONPlaceHolder API.
-  Implementation of MVC pattern, routing, cache system. Usage of Twig as template engine.</p></li>
-
 <li><a href="https://github.com/algisbernatovics/rick-and-morty-api/tree/main/the-rick-and-morty-main">
   Rick and Morty</a><p>Easily review all the locations,characters and episodes of Rick and Morty in a beautiful design.
   Implementation of MVC pattern, routing, cache system. Usage of Twig as template engine and Tailwind for styling.
   See :<a href="https://ricknmortycards.000webhostapp.com/">
   Rick and Morty Hosted</a>
   </p></li>
-  
-  
-  
-  
+
+<li><a href="https://github.com/algisbernatovics/Article-Site">Article Site</a><p>
+  Article Site:Articles,Users and Comments using SQL DB, also working With JSONPlaceHolder API.
+  Implementation of MVC pattern, routing, cache system. Usage of Twig as template engine.</p></li>
+
 <li><a href="https://github.com/algisbernatovics/gif-app-v2/tree/main/GiphyAppV2">Giphy Search</a><p>
   Simple page to fetch GIFS of your choice from Giphy API library.
   Implementation of MVC pattern, routing. Usage of Twig as template engine, CSS for styling.</p></li>
