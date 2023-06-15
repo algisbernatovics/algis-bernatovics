@@ -4,7 +4,7 @@
 Focus on the principles and practices of software development, including agile methodologies,
 version control,software testing, and project management.
 <hr>
-<b>Explore my latest projects here:</b><br>
+<b>Explore my latest projects here:</b><br><br>
 
 <li><a href="https://github.com/algisbernatovics/rick-and-morty-api/tree/main/the-rick-and-morty-main">
   Rick and Morty</a><p>Easily review all the locations,characters and episodes of Rick and Morty in a beautiful design.
