@@ -9,7 +9,7 @@ version control,software testing, and project management.
 <li><a href="https://github.com/algisbernatovics/rick-and-morty-api/tree/main/the-rick-and-morty-main">
   Rick and Morty</a><p>Easily review all the locations,characters and episodes of Rick and Morty in a beautiful design.
   Implementation of MVC pattern, routing, cache system. Usage of Twig as template engine and Tailwind for styling.
-    <p>See hosted:><a href="https://rickmortycards.000webhostapp.com/">Rick & Morty</a></p></li>
+    <p>See hosted:<a href="https://rickmortycards.000webhostapp.com/">Rick & Morty</a></p></li>
 
 <li><a href="https://github.com/algisbernatovics/Article-Site">Article Site</a><p>
   Article Site:Articles,Users and Comments using SQL DB, also working With JSONPlaceHolder API.
