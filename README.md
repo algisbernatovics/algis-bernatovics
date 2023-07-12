@@ -7,7 +7,7 @@ version control,software testing, and project management.
 <b>Explore my latest projects here:</b><br><br>
 
 <li><a href="">
-  My Bank</a><p> - Internetbank application writed in Laravel framework, with users, money accounts in different currencys.Use of API to convert amount of money from the sender's account to the recipient's account, as well as the ability to buy and sell cryptocurrencies and view transaction history.See hosted:<a href="https://laravelmoney.000webhostapp.com/">MyBank</a></p></li><p>
+  My Bank</a><p>Internetbank application writed in Laravel framework, with users, money accounts in different currencys.Use of API to convert amount of money from the sender's account to the recipient's account, as well as the ability to buy and sell cryptocurrencies and view transaction history.See hosted:<a href="https://laravelmoney.000webhostapp.com/">MyBank</a></p></li><p>
 
 <li><a href="https://github.com/algisbernatovics/rick-and-morty-api/tree/main/the-rick-and-morty-main">
   Rick and Morty</a><p>Easily review all the locations,characters and episodes of Rick and Morty in a beautiful design.
