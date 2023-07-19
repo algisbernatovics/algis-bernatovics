@@ -13,7 +13,7 @@ version control,software testing, and project management.
   Rick and Morty</a><p>Easily review all the locations,characters and episodes of Rick and Morty in a beautiful design.
   Implementation of MVC pattern, routing, cache system. Usage of Twig as template engine and Tailwind for styling.See hosted:<a href="https://rickmortycards.000webhostapp.com/">Rick & Morty</a></p></li><p>
 
-<li><a href="https://github.com/algisbernatovics/Article-Site">Article Site</a><p>
+<li><a href="https://github.com/algisbernatovics/article-site">Article Site</a><p>
   Article Site:Articles,Users and Comments using SQL DB, also working With JSONPlaceHolder API.
   Implementation of MVC pattern, routing, cache system. Usage of Twig as template engine.
   </p></li>
