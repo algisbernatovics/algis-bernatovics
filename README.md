@@ -7,11 +7,11 @@ version control,software testing, and project management.
 <b>Explore my latest projects here:</b><br><br>
 
 <li><a href="https://github.com/algisbernatovics/my-bank">
-  My Bank</a><p>Internetbank application writed in Laravel framework, with users, money accounts in different currencys.Use of API to convert amount of money from the sender's account to the recipient's account, as well as the ability to buy and sell cryptocurrencies and view transaction history.See hosted:<a href="https://laravelmoney.000webhostapp.com/">MyBank</a></p></li><p>
+  My Bank</a><p>Internetbank application writed in Laravel framework, with users, money accounts in different currencys.Use of API to convert amount of money from the sender's account to the recipient's account, as well as the ability to buy and sell cryptocurrencies and view transaction history.
 
 <li><a href="https://github.com/algisbernatovics/rick-and-morty">
   Rick and Morty</a><p>Easily review all the locations,characters and episodes of Rick and Morty in a beautiful design.
-  Implementation of MVC pattern, routing, cache system. Usage of Twig as template engine and Tailwind for styling.See hosted:<a href="https://rickmortycards.000webhostapp.com/">Rick & Morty</a></p></li><p>
+  Implementation of MVC pattern, routing, cache system. Usage of Twig as template engine and Tailwind for styling.
 
 <li><a href="https://github.com/algisbernatovics/article-site">Article Site</a><p>
   Article Site:Articles,Users and Comments using SQL DB, also working With JSONPlaceHolder API.
