@@ -18,9 +18,6 @@ version control,software testing, and project management.
   Implementation of MVC pattern, routing, cache system. Usage of Twig as template engine.
   </p></li>
 
-<li><a href="https://github.com/algisbernatovics/gif-app-v2/tree/main/GiphyAppV2">Giphy Search</a><p>
-  Simple page to fetch GIFS of your choice from Giphy API library.
-  Implementation of MVC pattern, routing. Usage of Twig as template engine, CSS for styling.</p></li>
 <hr>
  If you're looking for a dedicated programmer who can drive technological advancements and deliver exceptional results,
   get in touch! I'd be happy to discuss potential collaborations, projects or job opportunities.<br>
