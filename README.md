@@ -41,5 +41,5 @@ version control,software testing, and project management.
 
 <hr>
 
-# Stats
+<b>🧰 Stats</b>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=algisbernatovics&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
