@@ -40,3 +40,6 @@ version control,software testing, and project management.
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50">
 
 <hr>
+
+# Stats
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=algisbernatovics&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
